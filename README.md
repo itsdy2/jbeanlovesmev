@@ -1,1 +1,1 @@
-# https://itsdy2.github.io/jbeanlovesmev/
+# jbeanlovesmev.github.io
